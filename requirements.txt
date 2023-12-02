@@ -1,0 +1,5 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+customlib/dist/helperlibrary-1.0.tar.gz
